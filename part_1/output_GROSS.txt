@@ -1,0 +1,44 @@
+The file ./book_pages/pg1184.txt contains at least 18 instances of the string 'wilde' on 18 lines: 2265 2439 10233 12560 13678 23212 24626 34310 41719 42300 43260 51518 51991 52233 52387 52475 53345 55367 
+
+The file ./book_pages/pg1232.txt contains 0 instances of the string 'wilde'.
+
+The file ./book_pages/pg1322.txt contains at least 5 instances of the string 'wilde' on 5 lines: 3285 9315 12964 13732 13994 
+
+The file ./book_pages/pg135.txt contains at least 37 instances of the string 'wilde' on 37 lines: 409 5185 5462 5815 9311 9556 11226 15962 17064 18084 18100 20354 24172 26203 33843 33849 34299 34746 39886 40178 43046 46332 47105 47725 48223 49527 49716 52953 55965 57498 58322 63198 63970 64665 65831 66259 66353 
+
+The file ./book_pages/pg158.txt contains at least 3 instances of the string 'wilde' on 3 lines: 7063 13825 14713 
+
+The file ./book_pages/pg161.txt contains at least 1 instance of the string 'wilde' on 1 line: 5809 
+
+The file ./book_pages/pg16328.txt contains 0 instances of the string 'wilde'.
+
+The file ./book_pages/pg1661.txt contains at least 3 instances of the string 'wilde' on 3 lines: 5388 6071 7299 
+
+The file ./book_pages/pg174.txt contains at least 10 instances of the string 'wilde' on 10 lines: 1 11 42 90 756 3707 4068 5412 7427 8545 
+
+The file ./book_pages/pg1952.txt contains 0 instances of the string 'wilde'.
+
+The file ./book_pages/pg2591.txt contains 0 instances of the string 'wilde'.
+
+The file ./book_pages/pg2701.txt contains at least 8 instances of the string 'wilde' on 8 lines: 4751 13417 15366 16485 17796 19494 20516 21905 
+
+The file ./book_pages/pg30254.txt contains at least 31 instances of the string 'wilde' on 31 lines: 1570 3555 3946 4967 6872 8324 9122 9415 11498 11835 13065 13780 13787 13865 13916 14135 14147 14259 14301 14424 14722 15033 15043 15218 15830 15860 16448 16453 16471 16558 16880 
+
+The file ./book_pages/pg345.txt contains at least 11 instances of the string 'wilde' on 11 lines: 230 429 5006 6157 6742 7924 10176 11328 11808 11813 14853 
+
+The file ./book_pages/pg4300.txt contains at least 13 instances of the string 'wilde' on 13 lines: 278 903 1967 2421 6223 9517 9529 9532 10267 12173 22286 29373 30725 
+
+The file ./book_pages/pg5200.txt contains at least 1 instance of the string 'wilde' on 1 line: 779 
+
+The file ./book_pages/pg6130.txt contains 0 instances of the string 'wilde'.
+
+The file ./book_pages/pg74.txt contains at least 2 instances of the string 'wilde' on 2 lines: 3569 7652 
+
+The file ./book_pages/pg76.txt contains at least 1 instance of the string 'wilde' on 1 line: 5562 
+
+The file ./book_pages/pg844.txt contains at least 4 instances of the string 'wilde' on 4 lines: 2 18 873 1518 
+
+The file ./book_pages/pg8800.txt contains at least 9 instances of the string 'wilde' on 9 lines: 268 6864 7964 8561 9533 10439 12653 13463 13997 
+
+The file ./book_pages/pg98.txt contains at least 15 instances of the string 'wilde' on 15 lines: 598 1628 1989 3742 5188 8007 9108 9387 9552 10983 11383 11664 11672 14780 15410 
+
